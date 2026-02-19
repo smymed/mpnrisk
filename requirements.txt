@@ -9,3 +9,5 @@ catboost
 shap
 matplotlib
 seaborn
+altair<5.0
+streamlit
